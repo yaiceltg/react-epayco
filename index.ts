@@ -1,0 +1,1 @@
+export { useEpayco } from './src/hooks/useEpayco';

@@ -46,6 +46,14 @@ prop-types@^15.6.2:
     object-assign "^4.1.1"
     react-is "^16.8.1"
 
+react-epayco@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/react-epayco/-/react-epayco-0.1.2.tgz#2b5ce6d05034dd50287fe143d64111f169288fe9"
+  integrity sha512-0cz4z2AU3K852aSPab8nT5CmAUTS/wEhOZ8FpbwnKrho0YHmGlh+2BesLjM+CuP3BDrjOcIJr8fkugBkK0jhjw==
+  dependencies:
+    "@types/react" "^16.9.35"
+    react "^16.13.1"
+
 react-is@^16.8.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
@@ -59,3 +67,8 @@ react@^16.13.1:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     prop-types "^15.6.2"
+
+typescript@^2.7.2:
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
+  integrity sha512-Gr4p6nFNaoufRIY4NMdpQRNmgxVIGMs4Fcu/ujdYk3nAZqk7supzBE9idmvfZIlH/Cuj//dvi+019qEue9lV0w==

@@ -1,17 +1,22 @@
 {
   "name": "react-epayco",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "https://github.com/yaiceltg/react-epayco.git",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Yaicel Torres <yaiceltg@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@types/react": "^16.9.35",
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "react-epayco": "^0.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.2"
   }
 }
